@@ -1,0 +1,63 @@
+1959,Bahia,Bahia
+1960,São Paulo,Palmeiras
+1961,São Paulo,Santos
+1962,São Paulo,Santos
+1963,São Paulo,Santos
+1964,São Paulo,Santos
+1965,São Paulo,Santos
+1966,Minas Gerais,Cruzeiro
+1967,São Paulo,Palmeiras
+1967,São Paulo,Palmeiras
+1968,Rio de Janeiro,Botafogo
+1968,São Paulo,Santos
+1969,São Paulo,Palmeiras
+1970,Rio de Janeiro,Fluminense
+1971,Minas Gerais,Atlético Mineiro
+1972,São Paulo,Palmeiras
+1973,São Paulo,Palmeiras
+1974,Rio de Janeiro,Vasco da Gama
+1975,Rio Grande do Sul,Internacional
+1976,Rio Grande do Sul,Internacional
+1977,São Paulo,São Paulo
+1978,São Paulo,Guarani
+1979,Rio Grande do Sul,Internacional
+1980,Rio de Janeiro,Flamengo
+1981,Rio Grande do Sul,Grêmio
+1982,Rio de Janeiro,Flamengo
+1983,Rio de Janeiro,Flamengo
+1984,Rio de Janeiro,Fluminense
+1985,Paraná,Coritiba
+1986,São Paulo,São Paulo
+1987,Pernambuco,Sport
+1988,Bahia,Bahia
+1989,Rio de Janeiro,Vasco da Gama,Rio Grande do Sul,Grêmio
+1990,São Paulo,Corinthians,Rio de Janeiro,Flamengo
+1991,São Paulo,São Paulo,Santa Catarina,Criciúma
+1992,Rio de Janeiro,Flamengo,Rio Grande do Sul,Internacional
+1993,São Paulo,Palmeiras,Minas Gerais,Cruzeiro
+1994,São Paulo,Palmeiras,Rio Grande do Sul,Grêmio
+1995,Rio de Janeiro,Botafogo,São Paulo Corinthians
+1996,Rio Grande do Sul,Grêmio,Minas Gerais,Cruzeiro
+1997,Rio de Janeiro,Vasco da Gama,Rio Grande do Sul,Grêmio
+1998,São Paulo,Corinthians,São Paulo,Palmeiras
+1999,São Paulo,Corinthians,Rio Grande do Sul,Juventude
+2000,Rio de Janeiro,Vasco da Gama,Minas Gerais,Cruzeiro
+2001,Paraná,Atlético Paranaense,Rio Grande do Sul,Grêmio
+2002,São Paulo,Santos,São Paulo,Corinthians
+2003,Minas Gerais,Cruzeiro,Minas Gerais,Cruzeiro
+2004,São Paulo,Santos,São Paulo,Santo André
+2005,São Paulo,Corinthians,São Paulo,Paulista
+2006,São Paulo,São Paulo,Rio de Janeiro,Flamengo
+2007,São Paulo,São Paulo,Rio de Janeiro,Fluminense
+2008,São Paulo,São Paulo,Pernambuco,Sport
+2009,Rio de Janeiro,Flamengo,São Paulo,Corinthians
+2010,Rio de Janeiro,Fluminense,São Paulo,Santos
+2011,São Paulo,Corinthians,Rio de Janeiro,Vasco da Gama
+2012,Rio de Janeiro,Fluminense,São Paulo,Palmeiras
+2013,Minas Gerais,Cruzeiro,Rio de Janeiro,Flamengo
+2014,Minas Gerais,Cruzeiro,Minas Gerais,Atlético Mineiro
+2015,São Paulo,Corinthians,São Paulo,Palmeiras
+2016,São Paulo,Palmeiras,Rio Grande do Sul,Grêmio
+2017,São Paulo,Corinthians,Minas Gerais,Cruzeiro
+2018,São Paulo,Palmeiras,Minas Gerais,Cruzeiro
+2019,Rio de Janeiro,Flamengo,Paraná,Atlético Paranaense
